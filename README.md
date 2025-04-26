@@ -1,5 +1,5 @@
 
-# -Customer Payment Management System (OOP-Java Project)
+# Customer Payment Management System (OOP-Java Project)
 
 ## Overview
 
